@@ -140,7 +140,7 @@ Entre os principais aprendizados estão:
 
 O desenvolvimento completo da pesquisa está documentado no relatório final de Iniciação Científica.
 
-📄 [**Acessar relatório final**](relatorio/Relatório_PIBIC_MariaPaula (1).pdf)
+[📄 Acessar relatório final](relatorio/relatorio-final-bolsa-pibic.pdf)
 
 ## ✧ Autora
 
